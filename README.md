@@ -36,3 +36,15 @@
 <p> 
 --element defines a paragraph
 ```
+
+
+```py
+Creating Page Content
+Inside the <body> element of our website, we will use our "Layout Draft" and create:
+
+A header
+A navigation bar
+Main content
+Side content
+A footer
+```
